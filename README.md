@@ -24,7 +24,7 @@
 
 ### 💪 Currently Wielding:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,arduino,django,flask,python,javascript,typescript,mysql,cpp,postman" />
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git,arduino,django,flask,python,javascript,typescript,mysql,cpp,postman,numpy,pandas,scikit-learn,tensorflow,matplotlib" />
 <br>
 </div>
 
