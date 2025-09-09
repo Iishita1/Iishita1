@@ -24,7 +24,7 @@
 
 ### 💪 Currently Wielding:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,arduino,python,javascript,typescript,mysql,cpp,postman" />
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,arduino,django,flask,,python,javascript,typescript,mysql,cpp,postman" />
 <br>
 </div>
 
@@ -69,7 +69,7 @@
 
 ## 🌱 Learning Journey
 
-python
+```python
 # My coding philosophy 
 class LearningJourney:
     def __init__(self):
@@ -86,7 +86,7 @@ class LearningJourney:
 journey = LearningJourney()
 print(f"🎯 {journey.next_milestone()}")
 
-
+```
 ---
 
 ## 🎮 Fun Facts About Me
@@ -101,10 +101,16 @@ print(f"🎯 {journey.next_milestone()}")
 ## 🤝 Let's Connect & Collaborate!
 
 <div align="center">
-[![Linkedin](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishita-nanda-a61941324/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ishita.i.n?igsh=bzNocXZreGhwMXl1)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Iishita1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iishita.579@gmail.com)
+<a href="https://www.linkedin.com/in/ishita-nanda-a61941324/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+<a href="https://ishita-nanda.lovable.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+  </a>
+<a href="mailto:iishita.579@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+
 
 </div>
 
