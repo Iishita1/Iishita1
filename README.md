@@ -1,16 +1,136 @@
-## Hi there 👋
+# 🌟 Hey there, I'm Ishita! 
 
-<!--
-**Iishita1/Iishita1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=00D8FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Ishita+Nanda+here!;Student+|+Developer+|+Dreamer;Building+the+future+with+Ideas+and+Codes!" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://img.shields.io/badge/University-Chitkara%20University-blue?style=flat-square" alt="University"/>
+  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Growing-success?style=flat-square" alt="Status"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌷 About Me
+
+- 🧠 BTech student in Artificial Intelligence 
+- 💻 Exploring AI, web dev, open source, and cloud  
+- 🌱 Learning by building & breaking things (and exploring a lot)  
+
+---
+
+
+## 🛠 Tech Arsenal
+
+### 💪 Currently Wielding:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,arduino,python,javascript,typescript,mysql,cpp,postman" />
+<br>
+</div>
+
+### 🎯 Learning Next:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=next,threejs,figma,fastapi,nodejs,python,javascript,typescript,mongodb" />
+<br>
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iishita1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iishita1&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
+</div>
+
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Iishita1&theme=tokyonight&border_radius=10&mode=weekly" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iishita1&theme=tokyonight" alt="Profile Summary"/>
+</div>
+
+---
+
+## 🎯 My Learning Roadmap
+
+<div align="center">
+
+| 🏗 *Foundation* | 🚀 *Current Focus* | 🌟 *Next Level* | 💫 *Dream Projects* |
+|:------------------:|:--------------------:|:-----------------:|:---------------------:|
+| ✅ Python Fundamentals | 📈 Data Structures | 🔌 API Mastery | 📱 Mobile Apps |
+| ✅ Problem Solving | 📊 Algorithms | 🎯 Flutter | 🤖 AI Integration |
+| ✅ Git & GitHub | 💻 System Programming |🎮  Game Development | 🌍 Open Source |
+
+</div>
+
+---
+
+## 🌱 Learning Journey
+
+python
+# My coding philosophy 
+class LearningJourney:
+    def __init__(self):
+        self.current_level = "Programming Enthusiast"
+        self.motivation = "Every expert was once a beginner"
+        self.daily_goals = ["Code", "Learn", "Build", "Repeat"]
+    
+    def next_milestone(self):
+        return "Node wizard & Flutter app creator!"
+    
+    def ultimate_goal(self):
+        return "Full-stack developer who builds solutions that matter"
+
+journey = LearningJourney()
+print(f"🎯 {journey.next_milestone()}")
+
+
+---
+
+## 🎮 Fun Facts About Me
+
+- 💻 *From Scratch Builder*: Love creating things from ground up
+- 🌟 *Growth Mindset*: Every bug is a learning opportunity
+- ☕ *Coffee Powered*: Debugging runs on caffeine and curiosity
+- 🎯 *Goal*: From student to software architect who makes an impact
+
+---
+
+## 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+[![Linkedin](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishita-nanda-a61941324/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ishita.i.n?igsh=bzNocXZreGhwMXl1)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Iishita1)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iishita.579@gmail.com)
+
+</div>
+
+---
+
+## 💭 Daily Inspiration
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+---
+
+<div align="center">
+  
+### 🚀 "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+*Thanks for visiting my profile! Feel free to explore my repositories and don't forget to ⭐ if something catches your eye!*
+
+Currently building my path in technology, one commit at a time! 🖥
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
