@@ -24,13 +24,22 @@
 
 ### 💪 Currently Wielding:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git,arduino,django,flask,python,javascript,typescript,mysql,cpp,postman,numpy,pandas,scikit-learn,tensorflow,matplotlib" />
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,python,github,tailwind,git,django,flask,azure" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=cpp,postman,javascript,typescript,mysql,sklearn,tensorflow" />
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain.svg" height="50" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="50"/>
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="50"/>
+  <img width="15" />
 <br>
 </div>
 
 ### 🎯 Learning Next:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=next,threejs,figma,fastapi,nodejs,python,javascript,typescript,mongodb" />
+  <img src="https://skillicons.dev/icons?i=next,arduino,threejs,figma,fastapi,nodejs,python,javascript,typescript,mongodb" />
 <br>
 </div>
 
