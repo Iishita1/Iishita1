@@ -61,9 +61,14 @@
 </div>
 
 ---
+
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Iishita1&theme=tokyonight)](https://github.com/Iishita1/github-profile-trophy)
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Iishita1&theme=tokyonight" alt="GitHub Trophies"/>
+</div>
+
 ---
+
 ## 🎯 My Learning Roadmap
 
 <div align="center">
