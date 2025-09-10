@@ -64,7 +64,7 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Iishita1&theme=tokyonight" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Iishita1&theme=tokyonight"/>
 </div>
 
 ---
