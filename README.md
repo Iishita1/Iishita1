@@ -48,11 +48,6 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iishita1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iishita1&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
-</div>
-
-<div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Iishita1&theme=tokyonight&border_radius=10&mode=weekly" alt="GitHub Streak" />
 </div>
 
@@ -62,9 +57,9 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 LeetCode Analytics
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Iishita1&theme=tokyonight"/>
+  <img src="https://asciify.its-apoorv.me/api/leetcode?username=iishita1&theme=dracula&font_family=%27JetBrains+Mono%27%2C+monospace&text_color=%230080ff&border_style=none&border_color=cyan&corner_radius=0&bg_style=transparent" alt="Asciify LeetCode Stats" />
 </div>
 
 ---
@@ -156,3 +151,4 @@ Currently building my path in technology, one commit at a time! 🖥
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
+---
